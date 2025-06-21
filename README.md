@@ -10,7 +10,7 @@ A terminal-based crypto tracker to monitor real-time prices, plot ASCII charts, 
 
 ## Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/coinwatch.git
+git clone https://github.com/danielyoungkimball/coinwatch.git
 cd coinwatch
 pip install -r requirements.txt
 ```
